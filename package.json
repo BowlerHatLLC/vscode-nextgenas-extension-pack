@@ -1,0 +1,41 @@
+{
+  "name": "vscode-nextgenas",
+  "displayName": "ActionScript, MXML, and SWF Extension Pack",
+  "description": "A collection of essential ActionScript extensions for Visual Studio Code",
+  "version": "1.0.0",
+  "private": true,
+  "publisher": "bowlerhatllc",
+  "author": {
+    "name": "Josh Tynjala"
+  },
+  "homepage": "https://as3mxml.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BowlerHatLLC/vscode-nextgenas-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BowlerHatLLC/vscode-nextgenas-extension-pack/issues"
+  },
+  "extensionPack": [
+    "bowlerhatllc.vscode-as3mxml",
+    "bowlerhatllc.vscode-swf-debug"
+  ],
+  "scripts": {
+    "build": "vsce package"
+  },
+  "icon": "as3.png",
+  "keywords": [
+    "Flash",
+    "AIR",
+    "Royale",
+    "Flex",
+    "SWF"
+  ],
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "devDependencies": {
+    "vsce": "~1.93.0"
+  }
+}
