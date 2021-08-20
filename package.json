@@ -1,6 +1,6 @@
 {
   "name": "vscode-nextgenas",
-  "displayName": "ActionScript, MXML, and SWF Extension Pack",
+  "displayName": "AS3, MXML, and SWF Extension Pack",
   "description": "A collection of essential ActionScript extensions for Visual Studio Code",
   "version": "2.0.0",
   "private": true,
