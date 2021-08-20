@@ -2,7 +2,7 @@
   "name": "vscode-nextgenas",
   "displayName": "ActionScript, MXML, and SWF Extension Pack",
   "description": "A collection of essential ActionScript extensions for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "publisher": "bowlerhatllc",
   "author": {
@@ -23,7 +23,7 @@
   "scripts": {
     "build": "vsce package"
   },
-  "icon": "as3.png",
+  "icon": "as3swf.png",
   "keywords": [
     "Flash",
     "AIR",
