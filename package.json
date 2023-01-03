@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/BowlerHatLLC/vscode-nextgenas-extension-pack/issues"
   },
+  "sponsor": {
+    "url": "https://patreon.com/josht"
+  },
   "extensionPack": [
     "bowlerhatllc.vscode-as3mxml",
     "bowlerhatllc.vscode-swf-debug"
